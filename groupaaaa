@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Emerald - Thailearning</title>
+    </head>
+
+    <body>
+        <header>
+            <h1>Thailearning</h1>
+            <p>Learning Thai with Emerald</p>
+        </header>
+        <img src="resource/image/thai.jpg" width=320 height=240 alt="introduce">
+        <p></p>
+        <audio controls autoplay>
+            <source src="resource/music/background.mp3" type="audio/mpeg">
+        </audio> 
+        <p>Listen a song while you read this!</p>
+        <article>
+            <h2>Introduce to Thai</h2>
+            <em><a href="intersting.html">Check out</a> some intersting about this language! </em>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequatur libero voluptatibus quod velit sed ullam eos impedit? Explicabo minima ea totam aperiam praesentium obcaecati commodi sit nesciunt, nam, debitis velit.</p>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Accusamus ducimus aut libero, quaerat accusantium veritatis dolor. Vel quae eveniet ullam deserunt laboriosam saepe dolores laborum. Hic doloribus mollitia velit suscipit?</p>
+        </article>
+        
+        <article>
+            <header>
+                <h2>How to learn?</h2>
+            </header>
+            <p>When you learn the second language, you can find it hard to study. So I will bring in the way to learn Thai easily:</p>
+            <ol>
+                <li>Learn Consonant - <a href="csns.html"><strong>Here</strong></a></li>
+                <li>Learn Diacritic - <a href="diacritic.html"><strong>Here</strong></a></li>
+                <li>Learn Vowels - <a href="vowels.html"><strong>Here</strong></a></li>
+                <li>Learn rule to spell Thai words</li> 
+                <li>Learn New words and Grammar</li>
+                <li>Practise more and more!</li>
+            </ol>
+        </article>
+    
+        <article>
+            <h2>My Own Experience</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet eos necessitatibus rerum tempora doloribus explicabo, libero id aspernatur sint fugit veniam quam, qui deserunt eligendi modi! Blanditiis officia expedita impedit.</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus provident et nisi deleniti quod, ratione ipsam facilis voluptate cumque, repellat ducimus ad. Itaque aspernatur repellat temporibus pariatur quae nisi at!</p>
+            <p>Go to this category <a href="exp.html">here</a></p>
+            <img src="resource/image/exp.png" alt="exp_pic">
+        </article>
+
+        <footer>
+            <p><strong>&copy; 2021 EMERALD 💎</strong></p>
+        </footer>
+    </body>
+
+    
+ 
+</html>
