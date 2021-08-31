@@ -1,5 +1,5 @@
 html {
-	background-color: #869960;
+	background-color: #209be3;
 }
 
 body {
@@ -24,7 +24,7 @@ img {
 }
 
 .colorsolid {
-	background-color: darkolivegreen;
+	background-color: #2040e3;
 	float: left;
 	padding-right: 40px;
 	box-sizing: border-box;
@@ -33,7 +33,7 @@ img {
 header {
 	padding-top: 20px;
 	padding-bottom: 20px;
-	color: #617140;
+	color: #007bff;
 }
 
 header h1 {
